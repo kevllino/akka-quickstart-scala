@@ -69,6 +69,9 @@ project/project
 project/target
 project/boot/
 project/plugins/project/
+sbt
+sbt-dist/
+sbt.bat
 
 # Scala-IDE specific
 .scala_dependencies
